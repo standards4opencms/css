@@ -1,1 +1,1 @@
-css
+This is a fork of the [w3shcools CSS](https://www.w3schools.com/w3css/4/w3.css) which is [W3C CSS](http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fstandards4opencms.github.io%2Fw3.css&profile=css3&usermedium=all&warning=1&vextwarning=) compliant 
